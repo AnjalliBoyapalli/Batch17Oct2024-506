@@ -1,0 +1,9 @@
+A="Anjalli"
+B="Anjalli"
+
+if ["$A" == "$B"] 
+	then
+		echo "Equal"
+else
+	echo "Not Equal"
+fi
